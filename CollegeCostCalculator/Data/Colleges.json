@@ -1,0 +1,2930 @@
+[
+  {
+    "Name": "Adelphi University",
+    "TuitionInState": 38657.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15527.0
+  },
+  {
+    "Name": "Agnes Scott College",
+    "TuitionInState": 54007.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12449.0
+  },
+  {
+    "Name": "Albany College of Pharmacy",
+    "TuitionInState": 34154.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11274.0
+  },
+  {
+    "Name": "Albertus Magnus College",
+    "TuitionInState": 32386.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13520.0
+  },
+  {
+    "Name": "Alfred University",
+    "TuitionInState": 32525.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12763.0
+  },
+  {
+    "Name": "Allegheny College",
+    "TuitionInState": 44169.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11617.0
+  },
+  {
+    "Name": "American International College",
+    "TuitionInState": 35680.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14100.0
+  },
+  {
+    "Name": "American University",
+    "TuitionInState": 48187.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16100.0
+  },
+  {
+    "Name": "Amherst College",
+    "TuitionInState": 70260.0,
+    "TuitionOutState": null,
+    "RoomBoard": 0.0
+  },
+  {
+    "Name": "Andrews University",
+    "TuitionInState": 29573.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8713.0
+  },
+  {
+    "Name": "Anna Maria College",
+    "TuitionInState": 37860.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14230.0
+  },
+  {
+    "Name": "Arcadia University",
+    "TuitionInState": 42557.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14040.0
+  },
+  {
+    "Name": "Arizona State University",
+    "TuitionInState": 11224.0,
+    "TuitionOutState": 28467.0,
+    "RoomBoard": 11841.0
+  },
+  {
+    "Name": "Assumption College",
+    "TuitionInState": 40958.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12293.0
+  },
+  {
+    "Name": "Auburn University",
+    "TuitionInState": 11407.0,
+    "TuitionOutState": 30826.0,
+    "RoomBoard": 13865.0
+  },
+  {
+    "Name": "Ave Maria University",
+    "TuitionInState": 20769.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11300.0
+  },
+  {
+    "Name": "Babson College",
+    "TuitionInState": 51104.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16312.0
+  },
+  {
+    "Name": "Bard College",
+    "TuitionInState": 54680.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15488.0
+  },
+  {
+    "Name": "Barnard College",
+    "TuitionInState": 52917.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16744.0
+  },
+  {
+    "Name": "Barry University",
+    "TuitionInState": 29952.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11024.0
+  },
+  {
+    "Name": "Barton College",
+    "TuitionInState": 31198.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10250.0
+  },
+  {
+    "Name": "Bates College",
+    "TuitionInState": 54000.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15000.0
+  },
+  {
+    "Name": "Bay Path University",
+    "TuitionInState": 34899.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13311.0
+  },
+  {
+    "Name": "Baylor University",
+    "TuitionInState": 42842.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13560.0
+  },
+  {
+    "Name": "Becker College",
+    "TuitionInState": 39475.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13800.0
+  },
+  {
+    "Name": "Belmont University",
+    "TuitionInState": 34133.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11336.0
+  },
+  {
+    "Name": "Bennington College",
+    "TuitionInState": 53997.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15642.0
+  },
+  {
+    "Name": "Bentley University",
+    "TuitionInState": 49880.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16340.0
+  },
+  {
+    "Name": "Berklee College of Music",
+    "TuitionInState": 44460.0,
+    "TuitionOutState": null,
+    "RoomBoard": 18907.0
+  },
+  {
+    "Name": "Bethel University",
+    "TuitionInState": 37658.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10754.0
+  },
+  {
+    "Name": "Biola University",
+    "TuitionInState": 39986.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10648.0
+  },
+  {
+    "Name": "Bluffton University",
+    "TuitionInState": 32939.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10903.0
+  },
+  {
+    "Name": "Boston College",
+    "TuitionInState": 56001.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14142.0
+  },
+  {
+    "Name": "Boston University",
+    "TuitionInState": 53948.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15720.0
+  },
+  {
+    "Name": "Bowdoin College",
+    "TuitionInState": 53922.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14697.0
+  },
+  {
+    "Name": "Brandeis University",
+    "TuitionInState": 55040.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15142.0
+  },
+  {
+    "Name": "Bridgewater State University",
+    "TuitionInState": 10568.0,
+    "TuitionOutState": 16954.0,
+    "RoomBoard": 13069.0
+  },
+  {
+    "Name": "Brigham Young University",
+    "TuitionInState": 11357.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8296.0
+  },
+  {
+    "Name": "Brown University",
+    "TuitionInState": 55556.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14670.0
+  },
+  {
+    "Name": "Bryant University",
+    "TuitionInState": 43973.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15702.0
+  },
+  {
+    "Name": "Bryn Mawr College",
+    "TuitionInState": 53180.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16500.0
+  },
+  {
+    "Name": "Bucknell University",
+    "TuitionInState": 56145.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13676.0
+  },
+  {
+    "Name": "Butler University",
+    "TuitionInState": 41454.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13551.0
+  },
+  {
+    "Name": "California Institute of Arts",
+    "TuitionInState": 49276.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17000.0
+  },
+  {
+    "Name": "California Polytechnic State University San Luis Obispo",
+    "TuitionInState": 9809.0,
+    "TuitionOutState": 22164.0,
+    "RoomBoard": 13641.0
+  },
+  {
+    "Name": "Calvin College",
+    "TuitionInState": 34424.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10390.0
+  },
+  {
+    "Name": "Carnegie Mellon University",
+    "TuitionInState": 55765.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14335.0
+  },
+  {
+    "Name": "Case Western Reserve University",
+    "TuitionInState": 49400.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15375.0
+  },
+  {
+    "Name": "Castleton State College",
+    "TuitionInState": 12449.0,
+    "TuitionOutState": 28862.0,
+    "RoomBoard": 10702.0
+  },
+  {
+    "Name": "Catholic University of America",
+    "TuitionInState": 45804.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14650.0
+  },
+  {
+    "Name": "Cedarville University",
+    "TuitionInState": 30322.0,
+    "TuitionOutState": null,
+    "RoomBoard": 7372.0
+  },
+  {
+    "Name": "Central Connecticut State University",
+    "TuitionInState": 10591.0,
+    "TuitionOutState": 23789.0,
+    "RoomBoard": 12913.0
+  },
+  {
+    "Name": "Centre College",
+    "TuitionInState": 52707.0,
+    "TuitionOutState": null,
+    "RoomBoard": 0.0
+  },
+  {
+    "Name": "Champlain College",
+    "TuitionInState": 41411.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15502.0
+  },
+  {
+    "Name": "Chapman University",
+    "TuitionInState": 52472.0,
+    "TuitionOutState": null,
+    "RoomBoard": 5207.0
+  },
+  {
+    "Name": "Claremont McKenna College",
+    "TuitionInState": 54692.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16869.0
+  },
+  {
+    "Name": "Clark Atlanta University",
+    "TuitionInState": 22768.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8776.0
+  },
+  {
+    "Name": "Clark University",
+    "TuitionInState": 46176.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9843.0
+  },
+  {
+    "Name": "Clarkson University",
+    "TuitionInState": 49444.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15222.0
+  },
+  {
+    "Name": "Clemson University",
+    "TuitionInState": null,
+    "TuitionOutState": 36058.0,
+    "RoomBoard": 9595.0
+  },
+  {
+    "Name": "Coastal Carolina University",
+    "TuitionInState": 11648.0,
+    "TuitionOutState": 26907.0,
+    "RoomBoard": 9506.0
+  },
+  {
+    "Name": "Colby College",
+    "TuitionInState": 69451.0,
+    "TuitionOutState": null,
+    "RoomBoard": 0.0
+  },
+  {
+    "Name": "Colby-Sawyer College",
+    "TuitionInState": 42398.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14264.0
+  },
+  {
+    "Name": "Colgate University",
+    "TuitionInState": 56139.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14061.0
+  },
+  {
+    "Name": "College of Charleston",
+    "TuitionInState": 12478.0,
+    "TuitionOutState": 31601.0,
+    "RoomBoard": 11845.0
+  },
+  {
+    "Name": "College of Mount Saint Vincent",
+    "TuitionInState": 38584.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9880.0
+  },
+  {
+    "Name": "College of New Jersey",
+    "TuitionInState": 16794.0,
+    "TuitionOutState": 28680.0,
+    "RoomBoard": 13728.0
+  },
+  {
+    "Name": "College of New Rochelle",
+    "TuitionInState": 38083.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14701.0
+  },
+  {
+    "Name": "College of Saint Rose",
+    "TuitionInState": 32920.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12850.0
+  },
+  {
+    "Name": "College of the Atlantic",
+    "TuitionInState": 45284.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10137.0
+  },
+  {
+    "Name": "College of the Holy Cross",
+    "TuitionInState": 52770.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14520.0
+  },
+  {
+    "Name": "College of William and Mary",
+    "TuitionInState": 22926.0,
+    "TuitionOutState": 45417.0,
+    "RoomBoard": 12271.0
+  },
+  {
+    "Name": "College of Wooster",
+    "TuitionInState": 50544.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11856.0
+  },
+  {
+    "Name": "Colorado College",
+    "TuitionInState": 54931.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12559.0
+  },
+  {
+    "Name": "Colorado School of Mines",
+    "TuitionInState": 19745.0,
+    "TuitionOutState": 38933.0,
+    "RoomBoard": 12373.0
+  },
+  {
+    "Name": "Colorado State University",
+    "TuitionInState": 12097.0,
+    "TuitionOutState": 30306.0,
+    "RoomBoard": 12696.0
+  },
+  {
+    "Name": "Columbia College (Chicago)",
+    "TuitionInState": 26603.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13368.0
+  },
+  {
+    "Name": "Columbia University",
+    "TuitionInState": 56684.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14754.0
+  },
+  {
+    "Name": "Concordia College New York",
+    "TuitionInState": 32864.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12351.0
+  },
+  {
+    "Name": "Connecticut College",
+    "TuitionInState": 70138.0,
+    "TuitionOutState": null,
+    "RoomBoard": 0.0
+  },
+  {
+    "Name": "Cornell College",
+    "TuitionInState": 42526.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9474.0
+  },
+  {
+    "Name": "Cornell University",
+    "TuitionInState": 36902.0,
+    "TuitionOutState": 54967.0,
+    "RoomBoard": 14903.0
+  },
+  {
+    "Name": "Culinary Institute of America",
+    "TuitionInState": 32880.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11305.0
+  },
+  {
+    "Name": "Curry College",
+    "TuitionInState": 40140.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15324.0
+  },
+  {
+    "Name": "Dartmouth College",
+    "TuitionInState": 55068.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15765.0
+  },
+  {
+    "Name": "Davidson College",
+    "TuitionInState": 51947.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14512.0
+  },
+  {
+    "Name": "Dean College",
+    "TuitionInState": 39614.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17000.0
+  },
+  {
+    "Name": "Delaware State University",
+    "TuitionInState": 7320.0,
+    "TuitionOutState": 17287.0,
+    "RoomBoard": 11890.0
+  },
+  {
+    "Name": "Denison University",
+    "TuitionInState": 51960.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12710.0
+  },
+  {
+    "Name": "DePaul University",
+    "TuitionInState": 39946.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17100.0
+  },
+  {
+    "Name": "DePauw University",
+    "TuitionInState": 49752.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13116.0
+  },
+  {
+    "Name": "DeSales University",
+    "TuitionInState": 37544.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13312.0
+  },
+  {
+    "Name": "Dickinson College",
+    "TuitionInState": 54636.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13698.0
+  },
+  {
+    "Name": "Drew University",
+    "TuitionInState": 48840.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13828.0
+  },
+  {
+    "Name": "Drexel University",
+    "TuitionInState": 53279.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14079.0
+  },
+  {
+    "Name": "Duke University",
+    "TuitionInState": 55894.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16120.0
+  },
+  {
+    "Name": "Duquesne University",
+    "TuitionInState": 37850.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12599.0
+  },
+  {
+    "Name": "Earlham College",
+    "TuitionInState": 47580.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10317.0
+  },
+  {
+    "Name": "East Carolina University",
+    "TuitionInState": 7429.0,
+    "TuitionOutState": 24357.0,
+    "RoomBoard": 10228.0
+  },
+  {
+    "Name": "Eastern Connecticut State University",
+    "TuitionInState": 11356.0,
+    "TuitionOutState": 24552.0,
+    "RoomBoard": 13530.0
+  },
+  {
+    "Name": "Eastern Nazarene College",
+    "TuitionInState": 33051.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9707.0
+  },
+  {
+    "Name": "Eastern University",
+    "TuitionInState": 33363.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11419.0
+  },
+  {
+    "Name": "Eastern Washington University",
+    "TuitionInState": 7229.0,
+    "TuitionOutState": 24277.0,
+    "RoomBoard": 11383.0
+  },
+  {
+    "Name": "Eckerd College",
+    "TuitionInState": 44766.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12648.0
+  },
+  {
+    "Name": "Elmira College",
+    "TuitionInState": 43576.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12480.0
+  },
+  {
+    "Name": "Elms College",
+    "TuitionInState": 35788.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13108.0
+  },
+  {
+    "Name": "Elon University",
+    "TuitionInState": 35644.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12344.0
+  },
+  {
+    "Name": "Embry Riddle Aeronautical University",
+    "TuitionInState": 34461.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11544.0
+  },
+  {
+    "Name": "Emerson College",
+    "TuitionInState": 46852.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17690.0
+  },
+  {
+    "Name": "Emmanuel College",
+    "TuitionInState": 39804.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14994.0
+  },
+  {
+    "Name": "Emory University",
+    "TuitionInState": 51368.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14450.0
+  },
+  {
+    "Name": "Endicott College",
+    "TuitionInState": 33050.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15276.0
+  },
+  {
+    "Name": "Fairfield University",
+    "TuitionInState": 48650.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14710.0
+  },
+  {
+    "Name": "Fairleigh Dickinson University-Teaneck",
+    "TuitionInState": 39955.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13609.0
+  },
+  {
+    "Name": "Fashion Institute of Technology",
+    "TuitionInState": 7760.0,
+    "TuitionOutState": 21823.0,
+    "RoomBoard": 14503.0
+  },
+  {
+    "Name": "Fisher College",
+    "TuitionInState": 31771.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16919.0
+  },
+  {
+    "Name": "Fitchburg State University",
+    "TuitionInState": 10580.0,
+    "TuitionOutState": 16903.0,
+    "RoomBoard": 10962.0
+  },
+  {
+    "Name": "Florida Atlantic University",
+    "TuitionInState": 5649.0,
+    "TuitionOutState": 20209.0,
+    "RoomBoard": 12382.0
+  },
+  {
+    "Name": "Florida Gulf Coast University",
+    "TuitionInState": 6363.0,
+    "TuitionOutState": 26167.0,
+    "RoomBoard": 10059.0
+  },
+  {
+    "Name": "Florida Institute of Technology",
+    "TuitionInState": 38376.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11523.0
+  },
+  {
+    "Name": "Florida Southern College",
+    "TuitionInState": 36165.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11652.0
+  },
+  {
+    "Name": "Florida State University",
+    "TuitionInState": 6777.0,
+    "TuitionOutState": 22550.0,
+    "RoomBoard": 11043.0
+  },
+  {
+    "Name": "Fordham University",
+    "TuitionInState": 52128.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16770.0
+  },
+  {
+    "Name": "Framingham State University",
+    "TuitionInState": 10317.0,
+    "TuitionOutState": 16640.0,
+    "RoomBoard": 12126.0
+  },
+  {
+    "Name": "Franciscan University of Steubenville",
+    "TuitionInState": 27487.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8736.0
+  },
+  {
+    "Name": "Franklin and Marshall College",
+    "TuitionInState": 56451.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14132.0
+  },
+  {
+    "Name": "Franklin Pierce University",
+    "TuitionInState": 36900.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13345.0
+  },
+  {
+    "Name": "Furman University",
+    "TuitionInState": null,
+    "TuitionOutState": 50282.0,
+    "RoomBoard": 13260.0
+  },
+  {
+    "Name": "Gallaudet University",
+    "TuitionInState": 17220.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14294.0
+  },
+  {
+    "Name": "Geneva College",
+    "TuitionInState": 27113.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10317.0
+  },
+  {
+    "Name": "George Mason University",
+    "TuitionInState": 12193.0,
+    "TuitionOutState": 35537.0,
+    "RoomBoard": 11326.0
+  },
+  {
+    "Name": "George Washington University",
+    "TuitionInState": 55580.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13585.0
+  },
+  {
+    "Name": "Georgetown University",
+    "TuitionInState": 54392.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16182.0
+  },
+  {
+    "Name": "Georgia Institute of Technology",
+    "TuitionInState": 12915.0,
+    "TuitionOutState": 34335.0,
+    "RoomBoard": 11952.0
+  },
+  {
+    "Name": "Georgia State University",
+    "TuitionInState": 11292.0,
+    "TuitionOutState": 30609.0,
+    "RoomBoard": 9932.0
+  },
+  {
+    "Name": "Gettysburg College",
+    "TuitionInState": 54746.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13073.0
+  },
+  {
+    "Name": "Gonzaga University",
+    "TuitionInState": 42983.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12012.0
+  },
+  {
+    "Name": "Goodwin College",
+    "TuitionInState": 20798.0,
+    "TuitionOutState": null,
+    "RoomBoard": 0.0
+  },
+  {
+    "Name": "Gordon College",
+    "TuitionInState": 37400.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11070.0
+  },
+  {
+    "Name": "Goucher College",
+    "TuitionInState": 46959.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14690.0
+  },
+  {
+    "Name": "Grace College",
+    "TuitionInState": 23525.0,
+    "TuitionOutState": null,
+    "RoomBoard": 6945.0
+  },
+  {
+    "Name": "Green Mountain College",
+    "TuitionInState": 38482.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12191.0
+  },
+  {
+    "Name": "Grove City College",
+    "TuitionInState": 17944.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9776.0
+  },
+  {
+    "Name": "Hamilton College",
+    "TuitionInState": 54881.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13936.0
+  },
+  {
+    "Name": "Hampshire College",
+    "TuitionInState": 53672.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14150.0
+  },
+  {
+    "Name": "Hampton University",
+    "TuitionInState": 26460.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11667.0
+  },
+  {
+    "Name": "Hartwick College",
+    "TuitionInState": 45899.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9457.0
+  },
+  {
+    "Name": "Harvard University",
+    "TuitionInState": 50907.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17326.0
+  },
+  {
+    "Name": "Haverford College",
+    "TuitionInState": 55176.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16596.0
+  },
+  {
+    "Name": "Hellenic College",
+    "TuitionInState": 23286.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16840.0
+  },
+  {
+    "Name": "High Point University",
+    "TuitionInState": 35365.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13884.0
+  },
+  {
+    "Name": "Hobart and William Smith Colleges",
+    "TuitionInState": 55666.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14066.0
+  },
+  {
+    "Name": "Hofstra University",
+    "TuitionInState": 49254.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14310.0
+  },
+  {
+    "Name": "Hood College",
+    "TuitionInState": 39478.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13083.0
+  },
+  {
+    "Name": "Houghton College",
+    "TuitionInState": 32802.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9379.0
+  },
+  {
+    "Name": "Howard University",
+    "TuitionInState": 27675.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14242.0
+  },
+  {
+    "Name": "Husson University",
+    "TuitionInState": 18263.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9878.0
+  },
+  {
+    "Name": "Indiana University Pennsylvania",
+    "TuitionInState": 12632.0,
+    "TuitionOutState": 24185.0,
+    "RoomBoard": 12405.0
+  },
+  {
+    "Name": "Indiana University-Bloomington",
+    "TuitionInState": 10955.0,
+    "TuitionOutState": 36240.0,
+    "RoomBoard": 10668.0
+  },
+  {
+    "Name": "Iona College",
+    "TuitionInState": 39189.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15425.0
+  },
+  {
+    "Name": "Ithaca College",
+    "TuitionInState": 44599.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15885.0
+  },
+  {
+    "Name": "Jacksonville University",
+    "TuitionInState": 36670.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14248.0
+  },
+  {
+    "Name": "James Madison University",
+    "TuitionInState": 11313.0,
+    "TuitionOutState": 28369.0,
+    "RoomBoard": 10294.0
+  },
+  {
+    "Name": "John Brown University",
+    "TuitionInState": 27190.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9402.0
+  },
+  {
+    "Name": "Johns Hopkins University",
+    "TuitionInState": 54257.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16403.0
+  },
+  {
+    "Name": "Johnson & Wales University, Denver",
+    "TuitionInState": 32404.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13016.0
+  },
+  {
+    "Name": "Johnson & Wales University, Providence",
+    "TuitionInState": 32404.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13016.0
+  },
+  {
+    "Name": "Julliard",
+    "TuitionInState": 44897.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15995.0
+  },
+  {
+    "Name": "Juniata College",
+    "TuitionInState": 45630.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12522.0
+  },
+  {
+    "Name": "Kalamazoo College",
+    "TuitionInState": 48560.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9766.0
+  },
+  {
+    "Name": "Kansas State University, Manhattan",
+    "TuitionInState": 9898.0,
+    "TuitionOutState": 24781.0,
+    "RoomBoard": 9807.0
+  },
+  {
+    "Name": "Keene State College",
+    "TuitionInState": 14423.0,
+    "TuitionOutState": 23519.0,
+    "RoomBoard": 11165.0
+  },
+  {
+    "Name": "Kent State University",
+    "TuitionInState": null,
+    "TuitionOutState": 19286.0,
+    "RoomBoard": 11353.0
+  },
+  {
+    "Name": "Kenyon College",
+    "TuitionInState": 55702.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12771.0
+  },
+  {
+    "Name": "Keuka College",
+    "TuitionInState": 32184.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11910.0
+  },
+  {
+    "Name": "Knox College",
+    "TuitionInState": 46756.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10084.0
+  },
+  {
+    "Name": "La Salle University",
+    "TuitionInState": 30784.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16132.0
+  },
+  {
+    "Name": "Lafayette College",
+    "TuitionInState": 52884.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15642.0
+  },
+  {
+    "Name": "Lake Forest College",
+    "TuitionInState": 47370.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10454.0
+  },
+  {
+    "Name": "Lasell College",
+    "TuitionInState": 35984.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15392.0
+  },
+  {
+    "Name": "Lebanon Valley College",
+    "TuitionInState": 43867.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11918.0
+  },
+  {
+    "Name": "Lehigh University",
+    "TuitionInState": 52541.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13645.0
+  },
+  {
+    "Name": "LeMoyne College",
+    "TuitionInState": 35261.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13936.0
+  },
+  {
+    "Name": "Lesley University",
+    "TuitionInState": 27695.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16380.0
+  },
+  {
+    "Name": "LeTourneau University",
+    "TuitionInState": 30493.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10265.0
+  },
+  {
+    "Name": "Lewis & Clark College",
+    "TuitionInState": 50948.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12580.0
+  },
+  {
+    "Name": "Liberty University",
+    "TuitionInState": 24910.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9280.0
+  },
+  {
+    "Name": "Long Island University, Brooklyn Campus",
+    "TuitionInState": 40942.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14269.0
+  },
+  {
+    "Name": "Long Island University, Brookville (LIU Post)",
+    "TuitionInState": 38354.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9412.0
+  },
+  {
+    "Name": "Loyola Marymount University, Los Angeles",
+    "TuitionInState": 47894.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14825.0
+  },
+  {
+    "Name": "Loyola University, Chicago",
+    "TuitionInState": 44296.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15340.0
+  },
+  {
+    "Name": "Loyola University, Maryland",
+    "TuitionInState": 49462.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16266.0
+  },
+  {
+    "Name": "Loyola University, New Orleans",
+    "TuitionInState": 41072.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13173.0
+  },
+  {
+    "Name": "Lynchburg College",
+    "TuitionInState": 38189.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10691.0
+  },
+  {
+    "Name": "Macalester College",
+    "TuitionInState": 54563.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12139.0
+  },
+  {
+    "Name": "Maine College of Art",
+    "TuitionInState": 35360.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12366.0
+  },
+  {
+    "Name": "Maine Maritime Academy",
+    "TuitionInState": 13809.0,
+    "TuitionOutState": 27693.0,
+    "RoomBoard": 10514.0
+  },
+  {
+    "Name": "Manhattan College",
+    "TuitionInState": 43068.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16224.0
+  },
+  {
+    "Name": "Manhattanville College",
+    "TuitionInState": 39426.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15101.0
+  },
+  {
+    "Name": "Marietta College",
+    "TuitionInState": 37482.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11773.0
+  },
+  {
+    "Name": "Marist College",
+    "TuitionInState": 38251.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15704.0
+  },
+  {
+    "Name": "Marlboro College",
+    "TuitionInState": 42042.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12407.0
+  },
+  {
+    "Name": "Marquette University",
+    "TuitionInState": 41496.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12366.0
+  },
+  {
+    "Name": "Maryland Institute College of Art",
+    "TuitionInState": 47102.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8954.0
+  },
+  {
+    "Name": "Marymount Manhattan College",
+    "TuitionInState": 33228.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17056.0
+  },
+  {
+    "Name": "Marymount University",
+    "TuitionInState": 31643.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12709.0
+  },
+  {
+    "Name": "Marywood University",
+    "TuitionInState": 34518.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14141.0
+  },
+  {
+    "Name": "Mass College of Pharmacy & HS",
+    "TuitionInState": 33894.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17081.0
+  },
+  {
+    "Name": "Massachusetts College of Art and Design",
+    "TuitionInState": 13208.0,
+    "TuitionOutState": 35776.0,
+    "RoomBoard": 14040.0
+  },
+  {
+    "Name": "Massachusetts College of Liberal Arts",
+    "TuitionInState": 10478.0,
+    "TuitionOutState": 19781.0,
+    "RoomBoard": 11033.0
+  },
+  {
+    "Name": "Massachusetts Institute of Technology",
+    "TuitionInState": 51888.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15309.0
+  },
+  {
+    "Name": "Massachusetts Maritime Academy",
+    "TuitionInState": 8715.0,
+    "TuitionOutState": 19906.0,
+    "RoomBoard": 12798.0
+  },
+  {
+    "Name": "Mercyhurst University",
+    "TuitionInState": 37773.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13125.0
+  },
+  {
+    "Name": "Merrimack College",
+    "TuitionInState": 41760.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15845.0
+  },
+  {
+    "Name": "Messiah College",
+    "TuitionInState": 35526.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10629.0
+  },
+  {
+    "Name": "Methodist University",
+    "TuitionInState": 34403.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13265.0
+  },
+  {
+    "Name": "Miami University",
+    "TuitionInState": 15572.0,
+    "TuitionOutState": 35595.0,
+    "RoomBoard": 13730.0
+  },
+  {
+    "Name": "Michigan State University",
+    "TuitionInState": 15097.0,
+    "TuitionOutState": 41039.0,
+    "RoomBoard": 10427.0
+  },
+  {
+    "Name": "Middlebury College",
+    "TuitionInState": 54596.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15567.0
+  },
+  {
+    "Name": "Midwestern State University",
+    "TuitionInState": null,
+    "TuitionOutState": 11432.0,
+    "RoomBoard": 8877.0
+  },
+  {
+    "Name": "Mills College",
+    "TuitionInState": 31467.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13986.0
+  },
+  {
+    "Name": "Misericordia University",
+    "TuitionInState": 32926.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14092.0
+  },
+  {
+    "Name": "Mississippi State University",
+    "TuitionInState": 8651.0,
+    "TuitionOutState": 23252.0,
+    "RoomBoard": 9999.0
+  },
+  {
+    "Name": "Mitchell College",
+    "TuitionInState": 33740.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13260.0
+  },
+  {
+    "Name": "Molloy College",
+    "TuitionInState": 31075.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13980.0
+  },
+  {
+    "Name": "Monmouth University",
+    "TuitionInState": 38201.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15756.0
+  },
+  {
+    "Name": "Monroe College",
+    "TuitionInState": 15575.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10535.0
+  },
+  {
+    "Name": "Montserrat College of Art",
+    "TuitionInState": 33280.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9880.0
+  },
+  {
+    "Name": "Morehouse College",
+    "TuitionInState": 27574.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13438.0
+  },
+  {
+    "Name": "Morrisville State College",
+    "TuitionInState": 8641.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13768.0
+  },
+  {
+    "Name": "Mount Holyoke College",
+    "TuitionInState": 49998.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14660.0
+  },
+  {
+    "Name": "Mount Ida College",
+    "TuitionInState": 37149.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14227.0
+  },
+  {
+    "Name": "Muhlenberg College",
+    "TuitionInState": 52863.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11752.0
+  },
+  {
+    "Name": "National Technical Institute for the Deaf - RIT",
+    "TuitionInState": 16944.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13173.0
+  },
+  {
+    "Name": "Nazareth College of Rochester",
+    "TuitionInState": 34657.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13946.0
+  },
+  {
+    "Name": "New England College",
+    "TuitionInState": 38432.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14429.0
+  },
+  {
+    "Name": "New England Conservatory of Music",
+    "TuitionInState": 49369.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16328.0
+  },
+  {
+    "Name": "New England Institute of Technology",
+    "TuitionInState": 28080.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17555.0
+  },
+  {
+    "Name": "New England School of Communications",
+    "TuitionInState": 18263.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9878.0
+  },
+  {
+    "Name": "New Hampshire Institute of Art",
+    "TuitionInState": 27955.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11606.0
+  },
+  {
+    "Name": "New York University",
+    "TuitionInState": 51828.0,
+    "TuitionOutState": null,
+    "RoomBoard": 18156.0
+  },
+  {
+    "Name": "Newbury College",
+    "TuitionInState": 35849.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15080.0
+  },
+  {
+    "Name": "Niagara University",
+    "TuitionInState": 33228.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13468.0
+  },
+  {
+    "Name": "Nichols College",
+    "TuitionInState": 35360.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14352.0
+  },
+  {
+    "Name": "Norfolk State University",
+    "TuitionInState": 9397.0,
+    "TuitionOutState": 22088.0,
+    "RoomBoard": 10358.0
+  },
+  {
+    "Name": "North Carolina State University",
+    "TuitionInState": 9420.0,
+    "TuitionOutState": 28502.0,
+    "RoomBoard": 11288.0
+  },
+  {
+    "Name": "Northeastern University",
+    "TuitionInState": 51412.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15880.0
+  },
+  {
+    "Name": "Northern Arizona University",
+    "TuitionInState": 11501.0,
+    "TuitionOutState": 25835.0,
+    "RoomBoard": 10342.0
+  },
+  {
+    "Name": "Northern Vermont University, Johnson",
+    "TuitionInState": 12074.0,
+    "TuitionOutState": 25394.0,
+    "RoomBoard": 10598.0
+  },
+  {
+    "Name": "Northern Vermont University, Lyndon",
+    "TuitionInState": 12074.0,
+    "TuitionOutState": 25394.0,
+    "RoomBoard": 10598.0
+  },
+  {
+    "Name": "Northpoint Bible College",
+    "TuitionInState": 12536.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9225.0
+  },
+  {
+    "Name": "Northwestern University",
+    "TuitionInState": 54785.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16689.0
+  },
+  {
+    "Name": "Norwich University",
+    "TuitionInState": 40205.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13907.0
+  },
+  {
+    "Name": "Nova Southeastern University",
+    "TuitionInState": 31075.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10639.0
+  },
+  {
+    "Name": "Nyack College",
+    "TuitionInState": 25500.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9450.0
+  },
+  {
+    "Name": "Oakwood University",
+    "TuitionInState": 18085.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10071.0
+  },
+  {
+    "Name": "Oberlin College",
+    "TuitionInState": 55650.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16496.0
+  },
+  {
+    "Name": "Ohio Northern University",
+    "TuitionInState": 32230.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11721.0
+  },
+  {
+    "Name": "Ohio State University",
+    "TuitionInState": 11015.0,
+    "TuitionOutState": 30883.0,
+    "RoomBoard": 12742.0
+  },
+  {
+    "Name": "Ohio University",
+    "TuitionInState": 12372.0,
+    "TuitionOutState": 22214.0,
+    "RoomBoard": 13116.0
+  },
+  {
+    "Name": "Ohio Wesleyan University",
+    "TuitionInState": 46478.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12428.0
+  },
+  {
+    "Name": "Oxford College of Emory University",
+    "TuitionInState": 50442.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13044.0
+  },
+  {
+    "Name": "Pace University",
+    "TuitionInState": 45745.0,
+    "TuitionOutState": null,
+    "RoomBoard": 19282.0
+  },
+  {
+    "Name": "Palm Beach Atlantic University",
+    "TuitionInState": 30690.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10046.0
+  },
+  {
+    "Name": "Patrick Henry College",
+    "TuitionInState": 29039.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11157.0
+  },
+  {
+    "Name": "Paul Smith's College",
+    "TuitionInState": 28452.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12240.0
+  },
+  {
+    "Name": "Pennsylvania State University, University Park",
+    "TuitionInState": 18113.0,
+    "TuitionOutState": 33950.0,
+    "RoomBoard": 11731.0
+  },
+  {
+    "Name": "Pepperdine University",
+    "TuitionInState": 54072.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15465.0
+  },
+  {
+    "Name": "Pine Manor College",
+    "TuitionInState": 32406.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13967.0
+  },
+  {
+    "Name": "Pitzer College",
+    "TuitionInState": 54325.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16915.0
+  },
+  {
+    "Name": "Plymouth State University",
+    "TuitionInState": 14321.0,
+    "TuitionOutState": 23119.0,
+    "RoomBoard": 10369.0
+  },
+  {
+    "Name": "Point Park University",
+    "TuitionInState": 31335.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12438.0
+  },
+  {
+    "Name": "Pratt Institute",
+    "TuitionInState": 52040.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12501.0
+  },
+  {
+    "Name": "Prescott College",
+    "TuitionInState": 31783.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9695.0
+  },
+  {
+    "Name": "Princeton University",
+    "TuitionInState": 49910.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16234.0
+  },
+  {
+    "Name": "Providence College",
+    "TuitionInState": 50528.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14700.0
+  },
+  {
+    "Name": "Purdue University, West Lafayette",
+    "TuitionInState": 10402.0,
+    "TuitionOutState": 29956.0,
+    "RoomBoard": 10431.0
+  },
+  {
+    "Name": "Quinnipiac University",
+    "TuitionInState": 47960.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14540.0
+  },
+  {
+    "Name": "Ramapo College of New Jersey",
+    "TuitionInState": 14643.0,
+    "TuitionOutState": 24143.0,
+    "RoomBoard": 12147.0
+  },
+  {
+    "Name": "Randolph-Macon College",
+    "TuitionInState": 41600.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12449.0
+  },
+  {
+    "Name": "Reed College",
+    "TuitionInState": 56368.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14217.0
+  },
+  {
+    "Name": "Regis College",
+    "TuitionInState": 41413.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15330.0
+  },
+  {
+    "Name": "Rensselaer Polytechnic Institute",
+    "TuitionInState": 54397.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15558.0
+  },
+  {
+    "Name": "Rhode Island College",
+    "TuitionInState": 9127.0,
+    "TuitionOutState": 22141.0,
+    "RoomBoard": 11788.0
+  },
+  {
+    "Name": "Rhode Island School of Design",
+    "TuitionInState": 50409.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13572.0
+  },
+  {
+    "Name": "Rider University",
+    "TuitionInState": 42962.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15288.0
+  },
+  {
+    "Name": "Rivier University",
+    "TuitionInState": 32022.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13613.0
+  },
+  {
+    "Name": "Roanoke College",
+    "TuitionInState": 44402.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13788.0
+  },
+  {
+    "Name": "Robert Morris University, PA",
+    "TuitionInState": 30545.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11627.0
+  },
+  {
+    "Name": "Roberts Wesleyan College",
+    "TuitionInState": 32173.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10847.0
+  },
+  {
+    "Name": "Rochester Institute of Technology",
+    "TuitionInState": 41671.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13173.0
+  },
+  {
+    "Name": "Roger Williams University",
+    "TuitionInState": 34512.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15854.0
+  },
+  {
+    "Name": "Rollins College",
+    "TuitionInState": 50268.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15319.0
+  },
+  {
+    "Name": "Russell Sage College",
+    "TuitionInState": 29499.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12904.0
+  },
+  {
+    "Name": "Rutgers University, Camden",
+    "TuitionInState": 15081.0,
+    "TuitionOutState": 31121.0,
+    "RoomBoard": 13589.0
+  },
+  {
+    "Name": "Rutgers University, New Brunswick",
+    "TuitionInState": 15222.0,
+    "TuitionOutState": 31801.0,
+    "RoomBoard": 13501.0
+  },
+  {
+    "Name": "Rutgers University, Newark",
+    "TuitionInState": 15222.0,
+    "TuitionOutState": 31801.0,
+    "RoomBoard": 14198.0
+  },
+  {
+    "Name": "Sacred Heart University",
+    "TuitionInState": 41413.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15361.0
+  },
+  {
+    "Name": "Saint Anselm College",
+    "TuitionInState": 41590.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14712.0
+  },
+  {
+    "Name": "Saint Joseph's College, ME",
+    "TuitionInState": 35650.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13680.0
+  },
+  {
+    "Name": "Saint Joseph's University, PA",
+    "TuitionInState": 45448.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15099.0
+  },
+  {
+    "Name": "Saint Lawrence University",
+    "TuitionInState": 55110.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14202.0
+  },
+  {
+    "Name": "Saint Louis University",
+    "TuitionInState": 43853.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11309.0
+  },
+  {
+    "Name": "Saint Michael's College",
+    "TuitionInState": 45375.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12220.0
+  },
+  {
+    "Name": "Saint Peter's University",
+    "TuitionInState": 37858.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15947.0
+  },
+  {
+    "Name": "Salem State University",
+    "TuitionInState": 10689.0,
+    "TuitionOutState": 17374.0,
+    "RoomBoard": 12698.0
+  },
+  {
+    "Name": "Salve Regina University",
+    "TuitionInState": 40150.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14500.0
+  },
+  {
+    "Name": "Samford University",
+    "TuitionInState": 31710.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10691.0
+  },
+  {
+    "Name": "Santa Clara University",
+    "TuitionInState": 51852.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15066.0
+  },
+  {
+    "Name": "Sarah Lawrence College",
+    "TuitionInState": 56170.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15881.0
+  },
+  {
+    "Name": "Savannah College of Art and Design",
+    "TuitionInState": 37346.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17024.0
+  },
+  {
+    "Name": "School of the Art Institute of Chicago",
+    "TuitionInState": 49036.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14040.0
+  },
+  {
+    "Name": "School of the Museum of Fine Arts",
+    "TuitionInState": 56491.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14616.0
+  },
+  {
+    "Name": "School of Visual Arts, NYC",
+    "TuitionInState": 41579.0,
+    "TuitionOutState": null,
+    "RoomBoard": 20800.0
+  },
+  {
+    "Name": "Seattle Pacific University",
+    "TuitionInState": 42529.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11681.0
+  },
+  {
+    "Name": "Seattle University",
+    "TuitionInState": 44600.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12555.0
+  },
+  {
+    "Name": "Seton Hall University",
+    "TuitionInState": 42212.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15723.0
+  },
+  {
+    "Name": "Shenandoah University",
+    "TuitionInState": 32594.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10587.0
+  },
+  {
+    "Name": "Siena College",
+    "TuitionInState": 37911.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15132.0
+  },
+  {
+    "Name": "Sierra Nevada College",
+    "TuitionInState": 33945.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13275.0
+  },
+  {
+    "Name": "Simmons College",
+    "TuitionInState": 41184.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15392.0
+  },
+  {
+    "Name": "Simon's Rock College of Bard",
+    "TuitionInState": 55555.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15061.0
+  },
+  {
+    "Name": "Skidmore College",
+    "TuitionInState": 54544.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14564.0
+  },
+  {
+    "Name": "Smith College",
+    "TuitionInState": 52046.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17399.0
+  },
+  {
+    "Name": "Southeastern University",
+    "TuitionInState": 52046.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17399.0
+  },
+  {
+    "Name": "Southern Adventist University",
+    "TuitionInState": 22412.0,
+    "TuitionOutState": null,
+    "RoomBoard": 6968.0
+  },
+  {
+    "Name": "Southern Connecticut State University",
+    "TuitionInState": 10958.0,
+    "TuitionOutState": 24155.0,
+    "RoomBoard": 12929.0
+  },
+  {
+    "Name": "Southern New Hampshire University",
+    "TuitionInState": 33841.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13936.0
+  },
+  {
+    "Name": "Southern Vermont College",
+    "TuitionInState": 25891.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11440.0
+  },
+  {
+    "Name": "Spelman College",
+    "TuitionInState": 29286.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13999.0
+  },
+  {
+    "Name": "Springfield College",
+    "TuitionInState": 37996.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12730.0
+  },
+  {
+    "Name": "St. Bonaventure University",
+    "TuitionInState": 34633.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12279.0
+  },
+  {
+    "Name": "St. Edward's University",
+    "TuitionInState": 44678.0,
+    "TuitionOutState": 44678.0,
+    "RoomBoard": 12375.0
+  },
+  {
+    "Name": "St. John's University, New York",
+    "TuitionInState": 42141.0,
+    "TuitionOutState": null,
+    "RoomBoard": 17299.0
+  },
+  {
+    "Name": "St. Joseph's College Brooklyn",
+    "TuitionInState": 27612.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15229.0
+  },
+  {
+    "Name": "St. Joseph's University, PA",
+    "TuitionInState": 45635.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15099.0
+  },
+  {
+    "Name": "St. Mary's College of Maryland",
+    "TuitionInState": 15076.0,
+    "TuitionOutState": 31146.0,
+    "RoomBoard": 13329.0
+  },
+  {
+    "Name": "St. Olaf College",
+    "TuitionInState": 45947.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10483.0
+  },
+  {
+    "Name": "Stanford University",
+    "TuitionInState": 51602.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15716.0
+  },
+  {
+    "Name": "Sterling College",
+    "TuitionInState": 25984.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8663.0
+  },
+  {
+    "Name": "Stetson University",
+    "TuitionInState": 46270.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13312.0
+  },
+  {
+    "Name": "Stevens Institute of Technology",
+    "TuitionInState": 52754.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15371.0
+  },
+  {
+    "Name": "Stonehill College",
+    "TuitionInState": 42952.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16286.0
+  },
+  {
+    "Name": "Suffolk University",
+    "TuitionInState": 38806.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15882.0
+  },
+  {
+    "Name": "SUNY Albany",
+    "TuitionInState": 9870.0,
+    "TuitionOutState": 25345.0,
+    "RoomBoard": 14003.0
+  },
+  {
+    "Name": "SUNY Cobleskill",
+    "TuitionInState": 8465.0,
+    "TuitionOutState": 18501.0,
+    "RoomBoard": 13709.0
+  },
+  {
+    "Name": "SUNY ESF",
+    "TuitionInState": 8885.0,
+    "TuitionOutState": 18921.0,
+    "RoomBoard": 17108.0
+  },
+  {
+    "Name": "SUNY, Plattsburgh",
+    "TuitionInState": 8474.0,
+    "TuitionOutState": 18510.0,
+    "RoomBoard": 13104.0
+  },
+  {
+    "Name": "SUNY, Potsdam",
+    "TuitionInState": 8549.0,
+    "TuitionOutState": 18585.0,
+    "RoomBoard": 13296.0
+  },
+  {
+    "Name": "SUNY, Stony Brook",
+    "TuitionInState": 9628.0,
+    "TuitionOutState": 27839.0,
+    "RoomBoard": 13984.0
+  },
+  {
+    "Name": "Susquehanna University",
+    "TuitionInState": 47289.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12574.0
+  },
+  {
+    "Name": "Swarthmore College",
+    "TuitionInState": 52855.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15550.0
+  },
+  {
+    "Name": "Sweet Briar College",
+    "TuitionInState": 21000.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13000.0
+  },
+  {
+    "Name": "Syracuse University",
+    "TuitionInState": 48625.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16180.0
+  },
+  {
+    "Name": "Taylor University",
+    "TuitionInState": 34200.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9615.0
+  },
+  {
+    "Name": "Temple University",
+    "TuitionInState": 17324.0,
+    "TuitionOutState": 29555.0,
+    "RoomBoard": 15681.0
+  },
+  {
+    "Name": "The King's College",
+    "TuitionInState": 36816.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14000.0
+  },
+  {
+    "Name": "The New School",
+    "TuitionInState": 47050.0,
+    "TuitionOutState": null,
+    "RoomBoard": 18287.0
+  },
+  {
+    "Name": "The University of the Arts",
+    "TuitionInState": 46450.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16338.0
+  },
+  {
+    "Name": "Thomas College",
+    "TuitionInState": 27560.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10962.0
+  },
+  {
+    "Name": "Tisch School of the Arts",
+    "TuitionInState": 57641.0,
+    "TuitionOutState": null,
+    "RoomBoard": 18371.0
+  },
+  {
+    "Name": "Touro College, NY",
+    "TuitionInState": 20769.0,
+    "TuitionOutState": null,
+    "RoomBoard": 18371.0
+  },
+  {
+    "Name": "Towson University",
+    "TuitionInState": 10082.0,
+    "TuitionOutState": 23026.0,
+    "RoomBoard": 12671.0
+  },
+  {
+    "Name": "Trinity College",
+    "TuitionInState": 56961.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14768.0
+  },
+  {
+    "Name": "Tufts University",
+    "TuitionInState": 56491.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14616.0
+  },
+  {
+    "Name": "Tulane University",
+    "TuitionInState": 55078.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15117.0
+  },
+  {
+    "Name": "Tuskegee University",
+    "TuitionInState": 22308.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10036.0
+  },
+  {
+    "Name": "Union College",
+    "TuitionInState": 55294.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13565.0
+  },
+  {
+    "Name": "Unity College",
+    "TuitionInState": 29484.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10816.0
+  },
+  {
+    "Name": "University at Buffalo",
+    "TuitionInState": null,
+    "TuitionOutState": 28150.0,
+    "RoomBoard": 12976.0
+  },
+  {
+    "Name": "University of Alabama",
+    "TuitionInState": 12043.0,
+    "TuitionOutState": 30056.0,
+    "RoomBoard": 13753.0
+  },
+  {
+    "Name": "University of Arizona",
+    "TuitionInState": null,
+    "TuitionOutState": 35700.0,
+    "RoomBoard": 12550.0
+  },
+  {
+    "Name": "University of Bridgeport",
+    "TuitionInState": 31356.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16536.0
+  },
+  {
+    "Name": "University of California, Davis",
+    "TuitionInState": 14957.0,
+    "TuitionOutState": 44092.0,
+    "RoomBoard": 16781.0
+  },
+  {
+    "Name": "University of California, Los Angeles",
+    "TuitionInState": 13790.0,
+    "TuitionOutState": 42925.0,
+    "RoomBoard": 15749.0
+  },
+  {
+    "Name": "University of California, San Diego",
+    "TuitionInState": 14612.0,
+    "TuitionOutState": 43747.0,
+    "RoomBoard": 13839.0
+  },
+  {
+    "Name": "University of California, Santa Barbara",
+    "TuitionInState": 14985.0,
+    "TuitionOutState": 44120.0,
+    "RoomBoard": 15369.0
+  },
+  {
+    "Name": "University of Central Florida",
+    "TuitionInState": 6192.0,
+    "TuitionOutState": 21817.0,
+    "RoomBoard": 10155.0
+  },
+  {
+    "Name": "University of Chicago",
+    "TuitionInState": 57018.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16355.0
+  },
+  {
+    "Name": "University of Cincinati",
+    "TuitionInState": 11440.0,
+    "TuitionOutState": 28948.0,
+    "RoomBoard": 11859.0
+  },
+  {
+    "Name": "University of Colorado, Boulder",
+    "TuitionInState": 12569.0,
+    "TuitionOutState": 37669.0,
+    "RoomBoard": 14558.0
+  },
+  {
+    "Name": "University of Connecticut",
+    "TuitionInState": 15434.0,
+    "TuitionOutState": 38384.0,
+    "RoomBoard": 13015.0
+  },
+  {
+    "Name": "University of Connecticut Avery Point",
+    "TuitionInState": 13688.0,
+    "TuitionOutState": 36056.0,
+    "RoomBoard": 10348.0
+  },
+  {
+    "Name": "University of Connecticut Stamford",
+    "TuitionInState": 13352.0,
+    "TuitionOutState": 36302.0,
+    "RoomBoard": 10348.0
+  },
+  {
+    "Name": "University of Delaware",
+    "TuitionInState": 12345.0,
+    "TuitionOutState": 33134.0,
+    "RoomBoard": 12825.0
+  },
+  {
+    "Name": "University of Denver",
+    "TuitionInState": 50616.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13116.0
+  },
+  {
+    "Name": "University of Dubuque",
+    "TuitionInState": 30898.0,
+    "TuitionOutState": null,
+    "RoomBoard": 9828.0
+  },
+  {
+    "Name": "University of Findlay",
+    "TuitionInState": 34653.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10109.0
+  },
+  {
+    "Name": "University of Florida",
+    "TuitionInState": 6635.0,
+    "TuitionOutState": 29804.0,
+    "RoomBoard": 10306.0
+  },
+  {
+    "Name": "University of Georgia",
+    "TuitionInState": 12291.0,
+    "TuitionOutState": 31608.0,
+    "RoomBoard": 10462.0
+  },
+  {
+    "Name": "University of Hartford",
+    "TuitionInState": 40466.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12840.0
+  },
+  {
+    "Name": "University of Iowa",
+    "TuitionInState": 9558.0,
+    "TuitionOutState": 32067.0,
+    "RoomBoard": 10868.0
+  },
+  {
+    "Name": "University of Kentucky",
+    "TuitionInState": 13842.0,
+    "TuitionOutState": 28482.0,
+    "RoomBoard": 13178.0
+  },
+  {
+    "Name": "University of Louisville",
+    "TuitionInState": 11511.0,
+    "TuitionOutState": 27134.0,
+    "RoomBoard": 8765.0
+  },
+  {
+    "Name": "University of Maine at Farmington",
+    "TuitionInState": 9836.0,
+    "TuitionOutState": 19787.0,
+    "RoomBoard": 9707.0
+  },
+  {
+    "Name": "University of Maine at Fort Kent",
+    "TuitionInState": 8284.0,
+    "TuitionOutState": 12558.0,
+    "RoomBoard": 8226.0
+  },
+  {
+    "Name": "University of Maine at Machias",
+    "TuitionInState": 7987.0,
+    "TuitionOutState": 20093.0,
+    "RoomBoard": 8825.0
+  },
+  {
+    "Name": "University of Maine, Orono",
+    "TuitionInState": 11338.0,
+    "TuitionOutState": 31493.0,
+    "RoomBoard": 10541.0
+  },
+  {
+    "Name": "University of Maine, Presque Isle",
+    "TuitionInState": 8200.0,
+    "TuitionOutState": 12475.0,
+    "RoomBoard": 8595.0
+  },
+  {
+    "Name": "University of Mary Washington",
+    "TuitionInState": 12613.0,
+    "TuitionOutState": 28469.0,
+    "RoomBoard": 11347.0
+  },
+  {
+    "Name": "University of Maryland, Baltimore County",
+    "TuitionInState": 11979.0,
+    "TuitionOutState": 26680.0,
+    "RoomBoard": 12309.0
+  },
+  {
+    "Name": "University of Maryland, College Park",
+    "TuitionInState": 10814.0,
+    "TuitionOutState": 34950.0,
+    "RoomBoard": 12484.0
+  },
+  {
+    "Name": "University of Massachusetts, Amherst",
+    "TuitionInState": 16027.0,
+    "TuitionOutState": 34816.0,
+    "RoomBoard": 12748.0
+  },
+  {
+    "Name": "University of Massachusetts, Boston",
+    "TuitionInState": 14381.0,
+    "TuitionOutState": 34303.0,
+    "RoomBoard": 14093.0
+  },
+  {
+    "Name": "University of Massachusetts, Dartmouth",
+    "TuitionInState": 14114.0,
+    "TuitionOutState": 29416.0,
+    "RoomBoard": 13453.0
+  },
+  {
+    "Name": "University of Massachusetts, Lowell",
+    "TuitionInState": 15392.0,
+    "TuitionOutState": 33140.0,
+    "RoomBoard": 12996.0
+  },
+  {
+    "Name": "University of Miami",
+    "TuitionInState": 50423.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14213.0
+  },
+  {
+    "Name": "University of Michigan, Ann Arbor",
+    "TuitionInState": 17364.0,
+    "TuitionOutState": 52840.0,
+    "RoomBoard": 11646.0
+  },
+  {
+    "Name": "University of Mississippi",
+    "TuitionInState": 8622.0,
+    "TuitionOutState": 24496.0,
+    "RoomBoard": 10922.0
+  },
+  {
+    "Name": "University of New England",
+    "TuitionInState": 37320.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13990.0
+  },
+  {
+    "Name": "University of New Hampshire",
+    "TuitionInState": 18790.0,
+    "TuitionOutState": 33942.0,
+    "RoomBoard": 11717.0
+  },
+  {
+    "Name": "University of New Hampshire, Manchester",
+    "TuitionInState": 15444.0,
+    "TuitionOutState": 30597.0,
+    "RoomBoard": 11324.0
+  },
+  {
+    "Name": "University of New Haven",
+    "TuitionInState": 39697.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16234.0
+  },
+  {
+    "Name": "University of New Mexico",
+    "TuitionInState": 7354.0,
+    "TuitionOutState": 22918.0,
+    "RoomBoard": 9864.0
+  },
+  {
+    "Name": "University of North Carolina, Chapel Hill",
+    "TuitionInState": 9254.0,
+    "TuitionOutState": 35972.0,
+    "RoomBoard": 12018.0
+  },
+  {
+    "Name": "University of North Carolina, Greensboro",
+    "TuitionInState": 7540.0,
+    "TuitionOutState": 23305.0,
+    "RoomBoard": 8864.0
+  },
+  {
+    "Name": "University of North Carolina, Wilmington",
+    "TuitionInState": 7330.0,
+    "TuitionOutState": 21907.0,
+    "RoomBoard": 10910.0
+  },
+  {
+    "Name": "University of Notre Dame",
+    "TuitionInState": 53565.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15486.0
+  },
+  {
+    "Name": "University of Oregon",
+    "TuitionInState": 12034.0,
+    "TuitionOutState": 35995.0,
+    "RoomBoard": 11908.0
+  },
+  {
+    "Name": "University of Pennsylvania",
+    "TuitionInState": 55675.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15669.0
+  },
+  {
+    "Name": "University of Pittsburgh",
+    "TuitionInState": 19843.0,
+    "TuitionOutState": 31868.0,
+    "RoomBoard": 12045.0
+  },
+  {
+    "Name": "University of Redlands",
+    "TuitionInState": 49995.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14416.0
+  },
+  {
+    "Name": "University of Rhode Island, Kingston",
+    "TuitionInState": 14344.0,
+    "TuitionOutState": 31244.0,
+    "RoomBoard": 12950.0
+  },
+  {
+    "Name": "University of Richmond",
+    "TuitionInState": 52946.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12293.0
+  },
+  {
+    "Name": "University of Rochester",
+    "TuitionInState": 54065.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15952.0
+  },
+  {
+    "Name": "University of Saint Joseph, CT",
+    "TuitionInState": 39113.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11428.0
+  },
+  {
+    "Name": "University of Saint Thomas, MN",
+    "TuitionInState": 42778.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10758.0
+  },
+  {
+    "Name": "University of San Diego",
+    "TuitionInState": 49616.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13135.0
+  },
+  {
+    "Name": "University of San Francisco",
+    "TuitionInState": 48100.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14903.0
+  },
+  {
+    "Name": "University of Scranton",
+    "TuitionInState": 44626.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15714.0
+  },
+  {
+    "Name": "University of South Carolina, Columbia",
+    "TuitionInState": 12686.0,
+    "TuitionOutState": 33496.0,
+    "RoomBoard": 11648.0
+  },
+  {
+    "Name": "University of Southern California",
+    "TuitionInState": 56496.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15481.0
+  },
+  {
+    "Name": "University of Southern Maine",
+    "TuitionInState": 9589.0,
+    "TuitionOutState": 22911.0,
+    "RoomBoard": 9568.0
+  },
+  {
+    "Name": "University of Tampa",
+    "TuitionInState": 29563.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10922.0
+  },
+  {
+    "Name": "University of Texas, Arlington",
+    "TuitionInState": 10350.0,
+    "TuitionOutState": 25378.0,
+    "RoomBoard": 9281.0
+  },
+  {
+    "Name": "University of Texas, Austin",
+    "TuitionInState": 10311.0,
+    "TuitionOutState": 36702.0,
+    "RoomBoard": 10473.0
+  },
+  {
+    "Name": "University of Utah",
+    "TuitionInState": 8274.0,
+    "TuitionOutState": 26206.0,
+    "RoomBoard": 10989.0
+  },
+  {
+    "Name": "University of Valley Forge",
+    "TuitionInState": 21705.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8954.0
+  },
+  {
+    "Name": "University of Vermont",
+    "TuitionInState": 18450.0,
+    "TuitionOutState": 43010.0,
+    "RoomBoard": 12534.0
+  },
+  {
+    "Name": "University of Virginia",
+    "TuitionInState": 16719.0,
+    "TuitionOutState": 48468.0,
+    "RoomBoard": 11669.0
+  },
+  {
+    "Name": "University of Washington",
+    "TuitionInState": 11151.0,
+    "TuitionOutState": 36697.0,
+    "RoomBoard": 12602.0
+  },
+  {
+    "Name": "University of Wisconsin, Madison",
+    "TuitionInState": 10955.0,
+    "TuitionOutState": 36174.0,
+    "RoomBoard": 11276.0
+  },
+  {
+    "Name": "Ursinus College",
+    "TuitionInState": 52374.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13062.0
+  },
+  {
+    "Name": "Utica College",
+    "TuitionInState": 21504.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11261.0
+  },
+  {
+    "Name": "Vanderbilt University",
+    "TuitionInState": 49571.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16207.0
+  },
+  {
+    "Name": "Vassar College",
+    "TuitionInState": 57418.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13416.0
+  },
+  {
+    "Name": "Vermont Technical College",
+    "TuitionInState": 15683.0,
+    "TuitionOutState": 28488.0,
+    "RoomBoard": 10702.0
+  },
+  {
+    "Name": "Villanova University",
+    "TuitionInState": 53335.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15065.0
+  },
+  {
+    "Name": "Virginia Commonwealth University",
+    "TuitionInState": 14231.0,
+    "TuitionOutState": 35065.0,
+    "RoomBoard": 10594.0
+  },
+  {
+    "Name": "Virginia Military Institute",
+    "TuitionInState": 14273.0,
+    "TuitionOutState": 40988.0,
+    "RoomBoard": 9605.0
+  },
+  {
+    "Name": "Virginia Polytechnic Institute",
+    "TuitionInState": 13759.0,
+    "TuitionOutState": 32255.0,
+    "RoomBoard": 9038.0
+  },
+  {
+    "Name": "Wagner College",
+    "TuitionInState": 46592.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14196.0
+  },
+  {
+    "Name": "Wake Forest University",
+    "TuitionInState": 53322.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14394.0
+  },
+  {
+    "Name": "Warner University",
+    "TuitionInState": 21545.0,
+    "TuitionOutState": null,
+    "RoomBoard": 8682.0
+  },
+  {
+    "Name": "Warren Wilson College",
+    "TuitionInState": 36654.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11086.0
+  },
+  {
+    "Name": "Washington & Jefferson College",
+    "TuitionInState": 47890.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13884.0
+  },
+  {
+    "Name": "Washington College",
+    "TuitionInState": 45895.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11482.0
+  },
+  {
+    "Name": "Washington State University",
+    "TuitionInState": 11585.0,
+    "TuitionOutState": 26802.0,
+    "RoomBoard": 11185.0
+  },
+  {
+    "Name": "Waynesburg University",
+    "TuitionInState": 24970.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10213.0
+  },
+  {
+    "Name": "Wellesley College",
+    "TuitionInState": 53732.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16468.0
+  },
+  {
+    "Name": "Wells College",
+    "TuitionInState": 41184.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14279.0
+  },
+  {
+    "Name": "Wentworth Institute of Technology",
+    "TuitionInState": 33950.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14190.0
+  },
+  {
+    "Name": "Wesleyan University",
+    "TuitionInState": 54573.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16064.0
+  },
+  {
+    "Name": "West Chester University",
+    "TuitionInState": 5257.0,
+    "TuitionOutState": 11227.0,
+    "RoomBoard": 10496.0
+  },
+  {
+    "Name": "West Virginia University",
+    "TuitionInState": 10411.0,
+    "TuitionOutState": 24324.0,
+    "RoomBoard": 12507.0
+  },
+  {
+    "Name": "Western Connecticut State University",
+    "TuitionInState": 10876.0,
+    "TuitionOutState": 24073.0,
+    "RoomBoard": 13853.0
+  },
+  {
+    "Name": "Western New England University",
+    "TuitionInState": 37170.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13980.0
+  },
+  {
+    "Name": "Westfield State University",
+    "TuitionInState": 10104.0,
+    "TuitionOutState": 16427.0,
+    "RoomBoard": 10922.0
+  },
+  {
+    "Name": "Westminster College (PA)",
+    "TuitionInState": 19092.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12698.0
+  },
+  {
+    "Name": "Westminster College, Salt Lake City",
+    "TuitionInState": 34362.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10537.0
+  },
+  {
+    "Name": "Wheaton College, Illinois",
+    "TuitionInState": 36598.0,
+    "TuitionOutState": null,
+    "RoomBoard": 10660.0
+  },
+  {
+    "Name": "Wheaton College, Norton",
+    "TuitionInState": 52884.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13487.0
+  },
+  {
+    "Name": "Wheelock College",
+    "TuitionInState": 37804.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15574.0
+  },
+  {
+    "Name": "Whitman College",
+    "TuitionInState": 51771.0,
+    "TuitionOutState": null,
+    "RoomBoard": 13025.0
+  },
+  {
+    "Name": "Whittier College",
+    "TuitionInState": 48173.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14258.0
+  },
+  {
+    "Name": "Widener University",
+    "TuitionInState": 45933.0,
+    "TuitionOutState": null,
+    "RoomBoard": 15452.0
+  },
+  {
+    "Name": "Wilkes University",
+    "TuitionInState": 36292.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14177.0
+  },
+  {
+    "Name": "Williams College",
+    "TuitionInState": 55692.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14716.0
+  },
+  {
+    "Name": "Wingate University",
+    "TuitionInState": 32365.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11211.0
+  },
+  {
+    "Name": "Winston-Salem State University",
+    "TuitionInState": 8862.0,
+    "TuitionOutState": 19346.0,
+    "RoomBoard": 10041.0
+  },
+  {
+    "Name": "Winthrop University",
+    "TuitionInState": 15465.0,
+    "TuitionOutState": 29937.0,
+    "RoomBoard": 9262.0
+  },
+  {
+    "Name": "Wofford College",
+    "TuitionInState": 43633.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12626.0
+  },
+  {
+    "Name": "Worcester Polytechnic Institute",
+    "TuitionInState": 50518.0,
+    "TuitionOutState": null,
+    "RoomBoard": 14716.0
+  },
+  {
+    "Name": "Worcester State University",
+    "TuitionInState": 9913.0,
+    "TuitionOutState": 16236.0,
+    "RoomBoard": 12651.0
+  },
+  {
+    "Name": "Xavier University of Louisiana",
+    "TuitionInState": 23173.0,
+    "TuitionOutState": null,
+    "RoomBoard": 5137.0
+  },
+  {
+    "Name": "Xavier University, Ohio",
+    "TuitionInState": 38839.0,
+    "TuitionOutState": null,
+    "RoomBoard": 12636.0
+  },
+  {
+    "Name": "Yale University",
+    "TuitionInState": 53456.0,
+    "TuitionOutState": null,
+    "RoomBoard": 16120.0
+  },
+  {
+    "Name": "York College of Pennsylvania",
+    "TuitionInState": 20207.0,
+    "TuitionOutState": null,
+    "RoomBoard": 11263.0
+  }
+]
